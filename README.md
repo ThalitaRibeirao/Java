@@ -2,15 +2,23 @@
 
 <table>
   <td>
-    <img src="https://media0.giphy.com/media/H7gdwW1UOWyRlVYpwt/giphy.gif?cid=6c09b952aqjozo9i4o7k6ayed5jnebogyskykqk5kka7aowp&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="100"/>
+    <img src="https://media0.giphy.com/media/H7gdwW1UOWyRlVYpwt/giphy.gif?cid=6c09b952aqjozo9i4o7k6ayed5jnebogyskykqk5kka7aowp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
   </td>
   <td>
-    <p> Welcome to the "Java" repository! </p>
+    <p> Welcome to the "Java" repository! This space is dedicated to gather all my notes, projects and challenges regarding the study of this amazing programming language. Each folder will be focused in one of these topics. Have a good time exploring it 😊. </p>
   </td>
 </table>
 
+## Daily Problems
+This folder is dedicated to solve programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. I'm using directly the platform editor to write and run the code.
+
+## Issues and Questions
+If you have any questions, encounter issues, or would like to discuss a specific problem or solution, please use the "Issues" tab on the GitHub repository. Feel free to open a new issue, and I'll do my best to assist you.
+<br></br>
+
+☕ Happy coding!
 <!--
-This space is dedicated to solving programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. Each problem is tackled and solved in the Visual Studio environment. 
+solving programming problems from the <a href="https://www.beecrowd.com.br/judge/pt"> Beecrowd platform </a> on a daily basis. Each problem is tackled and solved in the Visual Studio environment. 
 ## Repository Structure
 The repository is organized as follows:
 
@@ -39,4 +47,4 @@ Contributions to this repository are welcome! If you have a different approach t
 3. Make your changes or additions.
 4. Submit a pull request.
 -->
-☕ Happy coding!
+
