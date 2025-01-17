@@ -13,6 +13,6 @@ public class Main {
         b = input.nextInt();
         soma = a + b;
         
-        System.out.print("SOMA = %d\n", soma);
+        System.out.printf("SOMA = %d\n", soma);
     } 
 }
