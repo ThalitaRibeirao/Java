@@ -11,10 +11,10 @@ public class Main {
         
         input = new Scanner(System.in);
         
-        int a = nextInt();
-        int b = nextInt();
-        int c = nextInt();
-        int d = nextInt();
+        a = input.nextInt();
+        b = input.nextInt();
+        c = input.nextInt();
+        d = input.nextInt();
         
         dif = (a * b) - (c * d);
         
